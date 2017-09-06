@@ -1,2 +1,4 @@
 35. 1.0, 2.4, 7.2, 5.3
-37. 
+37. if not (A < B) then statement1 else statement2 endif
+38
+61
