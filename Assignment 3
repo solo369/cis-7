@@ -1,4 +1,8 @@
 35. 1.0, 2.4, 7.2, 5.3
 37. if not (A < B) then statement1 else statement2 endif
-38
-61
+38. Let P = (A^B)', (F^F)' = True, so P is true. P^C == T^T which is true executing statement 1.
+61. P is telling the truth. if P is false than statement is false. If P is true than the other person L is a liar.
+62. Merlin is telling the truth. If Merlin was a liar than her statement would be true which is a contradiction.
+63. Rothwold is telling the truth. If Rothwold is lying than than his statement is true which s a contradiction.
+      therefore he is telling the truth.
+64. gwen is a lier and so is merrilaine. so if gwens telling a lie then her statement of being a lier would be true which is a contradiction to her identity.
